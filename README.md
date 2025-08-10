@@ -4,7 +4,7 @@
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/onepluswoachat)
 
 
-## ⚠️ Warning
+## ⚠️ Внимание
 Мы не несем ответственности за неисправные устройства, отсутствующие разделы восстановления, неработающие заводские версии OnePlus, неработающие микросхемы PMIC, неработающая оперативная память, неработающие SIM-карты, неработающие микросхемы дисплея, неработающие процессоры, любые махинации OnePlus, взрывающиеся батареи, мертвые кошки или собаки, ядерные войны или ваше увольнение из-за того, что вы забыли снова загрузиться в Android, чтобы прозвонил будильник.
 
 
@@ -15,24 +15,24 @@
 **ЕСЛИ ВАМ НЕ КОМФОРТНО МОДИФИЦИРОВАТЬ СВОЙ ТЕЛЕФОН ИЛИ ЕГО ТАБЛИЦУ РАЗДЕЛОВ ИЛИ ВЫ ПАРАНОЯТНО БОИТЕСЬ ВЫВЕСТИ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ, ВЫЙДИТЕ НЕМЕДЛЕННО!!! ВАС ПРЕДУПРЕЖДАЛИ, ВЫ ВИНОВАТЫ САМИ, ЕСЛИ ВЫ ВЫВЕДЕТЕ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ!!! ЕЩЕ РАЗ! ВАС ПРЕДУПРЕЖДАЛИ!!!**
 
 
-## Get started
-- [Project status](guide/status.md)
+## Приступим
+- [Статус проекта](guide/status.md)
 
-- [Installation instructions](guide/1-partition.md)
+- [Инструкция по установке](guide/1-partition.md)
 
-- [Troubleshooting](guide/troubleshooting.md)
+- [Поиск неисправностей](guide/troubleshooting.md)
 
 
-## Miscellaneous
-- [Dualboot setup](guide/dualboot-selection2.md)
+## Другое
+- [Настройка Dualboot](guide/dualboot-selection2.md)
 
-- [Additional materials](guide/materials.md)
+- [Даполнительные материалы](guide/materials.md)
 
-- [Update drivers](guide/update.md)
+- [Обновление драйверов](guide/update.md)
 
-- [Reinstall instructions](guide/reinstall.md)
+- [Иструкция по переустановке](guide/reinstall.md)
 
-- [Uninstall instructions](guide/edl.md)
+- [Инструкция по удалению](guide/edl.md)
 
 
 ## Maintainers
