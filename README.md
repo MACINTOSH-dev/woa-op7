@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/n00b69/woa-op7/blob/main/op7.png" width="350" alt="Windows 11 running on hotdog/guacamole">
 
-# Running Windows on the OnePlus 7 Pro / 7T Pro
+# Запуск Windows on the OnePlus 7 Pro / 7T Pro
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/onepluswoachat)
 
 
@@ -11,7 +11,7 @@ As the header of this guide suggests, this guide is only for the OnePlus 7 Pro 4
 
 This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. In this guide we will be brushing windows on sm8750 and sewing the firewood for xiaomi 15 pro without dancing with tambourines. This is a delicate process, do it under your own risk and follow all the steps carefully.
 
-**IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
+**ЕСЛИ ВАМ НЕ КОМФОРТНО МОДИФИЦИРОВАТЬ СВОЙ ТЕЛЕФОН ИЛИ ЕГО ТАБЛИЦУ РАЗДЕЛОВ ИЛИ ВЫ ПАРАНОЯТНО БОИТЕСЬ ВЫВЕСТИ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ, КЛИКНИТЕ НЕМЕДЛЕННО!!! ВАС ПРЕДУПРЕЖДАЛИ, ВЫ ОСТАНЕТЕСЬ САМИ, ЕСЛИ ВЫ ВЫВЕДЕТЕ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ!!! ЕЩЕ РАЗ! ВАС ПРЕДУПРЕЖДАЛИ!!!**
 
 
 ## Get started
