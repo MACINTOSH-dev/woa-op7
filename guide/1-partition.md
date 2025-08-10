@@ -14,9 +14,9 @@
 ### Примечание
 > [⚠️ВНИМАНИЕ]  
 > 
-> НЕ ПЕРЕЗАГРУЖАЙТЕ ТЕЛЕФОН! Если вы считаете, что совершили ошибку, обратитесь за помощью в [чат Telegram.](https://t.me/onepluswoachat).
+> НЕ ПЕРЕЗАГРУЖАЙТЕ ТЕЛЕФОН! Если вы считаете, что совершили ошибку, обратитесь за помощью в [чат Telegram](https://t.me/onepluswoachat).
 > 
-> Do not run all commands at once, execute them in order!
+> Не запускайте все команды сразу, выполняйте их по порядку!
 >
 > YOU CAN BREAK YOUR DEVICE WITH THE COMMANDS BELOW IF YOU DO THEM WRONG!!!
 
