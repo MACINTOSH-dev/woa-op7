@@ -14,7 +14,7 @@
 ### Примечание
 > [⚠️ВНИМАНИЕ]  
 > 
-> DO NOT REBOOT YOUR PHONE! If you think you made a mistake, ask for help in the [Telegram chat](https://t.me/onepluswoachat).
+> НЕ ПЕРЕЗАГРУЖАЙТЕ ТЕЛЕФОН! Если вы считаете, что совершили ошибку, обратитесь за помощью в чат Telegram . [Телеграм чат](https://t.me/onepluswoachat).
 > 
 > Do not run all commands at once, execute them in order!
 >
