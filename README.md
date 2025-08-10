@@ -5,13 +5,14 @@
 
 
 ## ⚠️ Warning
-We're not responsible for bricked devices, missing recovery partitions, dead oneplus factoryline ~~workers~~ cowboys, dead pmics, dead ram, dead sim cards, dead display ics, dead cpus, any oneplus shenanigans, exploding batteries, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
+Мы не несем ответственности за неисправные устройства, отсутствующие разделы восстановления, неработающие заводские версии OnePlus, неработающие микросхемы PMIC, неработающая оперативная память, неработающие SIM-карты, неработающие микросхемы дисплея, неработающие процессоры, любые махинации OnePlus, взрывающиеся батареи, мертвые кошки или собаки, ядерные войны или ваше увольнение из-за того, что вы забыли снова загрузиться в Android, чтобы прозвонил будильник.
 
-As the header of this guide suggests, this guide is only for the OnePlus 7 Pro 4G and the OnePlus 7T Pro 4G. Any other devices of the OnePlus 7 series are (currently) not supported.
 
-This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. In this guide we will be brushing windows on sm8750 and sewing the firewood for xiaomi 15 pro without dancing with tambourines. This is a delicate process, do it under your own risk and follow all the steps carefully.
+Как следует из заголовка данного руководства, оно предназначено только для OnePlus 7 Pro 4G и OnePlus 7T Pro 4G. Другие устройства серии OnePlus 7 (в настоящее время) не поддерживаются.
 
-**ЕСЛИ ВАМ НЕ КОМФОРТНО МОДИФИЦИРОВАТЬ СВОЙ ТЕЛЕФОН ИЛИ ЕГО ТАБЛИЦУ РАЗДЕЛОВ ИЛИ ВЫ ПАРАНОЯТНО БОИТЕСЬ ВЫВЕСТИ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ, КЛИКНИТЕ НЕМЕДЛЕННО!!! ВАС ПРЕДУПРЕЖДАЛИ, ВЫ ОСТАНЕТЕСЬ САМИ, ЕСЛИ ВЫ ВЫВЕДЕТЕ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ!!! ЕЩЕ РАЗ! ВАС ПРЕДУПРЕЖДАЛИ!!!**
+Этот проект находится на ранней стадии, все файлы здесь предоставлены пользователями. Здесь вы найдёте руководство с рабочими файлами, которые нам удалось получить. 
+
+**ЕСЛИ ВАМ НЕ КОМФОРТНО МОДИФИЦИРОВАТЬ СВОЙ ТЕЛЕФОН ИЛИ ЕГО ТАБЛИЦУ РАЗДЕЛОВ ИЛИ ВЫ ПАРАНОЯТНО БОИТЕСЬ ВЫВЕСТИ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ, ВЫЙДИТЕ НЕМЕДЛЕННО!!! ВАС ПРЕДУПРЕЖДАЛИ, ВЫ ВИНОВАТЫ САМИ, ЕСЛИ ВЫ ВЫВЕДЕТЕ СВОЕ УСТРОЙСТВО ИЗ СТРОЯ!!! ЕЩЕ РАЗ! ВАС ПРЕДУПРЕЖДАЛИ!!!**
 
 
 ## Get started
