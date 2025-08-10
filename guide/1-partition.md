@@ -12,7 +12,7 @@
 - [Модифицированный TWRP](https://github.com/n00b69/woa-op7/releases/download/Files/moddedtwrp.img)
 
 ### Примечание
-> [!ВНИМАНИЕ]  
+> [⚠️ВНИМАНИЕ]  
 > 
 > DO NOT REBOOT YOUR PHONE! If you think you made a mistake, ask for help in the [Telegram chat](https://t.me/onepluswoachat).
 > 
