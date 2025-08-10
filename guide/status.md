@@ -1,47 +1,47 @@
 <img align="right" src="https://github.com/n00b69/woa-op7/blob/main/op7.png" width="350" alt="Windows 11 running on hotdog/guacamole">
 
-# Running Windows on the OnePlus 7 Pro / 7T Pro
+# Запуск Windows on the OnePlus 7 Pro / 7T Pro
 
-## Project Status
-> The support status on this page assumes the device is running OOS11 / ROMs that use OOS11 firmware. OOS12 is not officially supported and things may not work as expected.
->
-> To boot Windows on OOS12-based ROMs, you need to flash OOS11 devcfg before booting Windows. You can use the **devcfg flasher** feature in **WOA Helper** to do this.
+## Статус проекта
+> Статус поддержки на этой странице предполагает, что устройство работает под управлением OOS11 или ПЗУ с прошивкой OOS11. OOS12 официально не поддерживается, и некоторые функции могут работать не так, как ожидалось.>
 
-#### (un)Supported models
+> Для загрузки Windows на ПЗУ на базе OOS12 необходимо прошить OOS11 devcfg перед загрузкой Windows. Для этого можно воспользоваться функцией прошивки devcfg в WOA Helper .
+
+#### Поддерживаемые модели
 - [x] OnePlus 7 Pro (GM1910 / GM1911 / GM1913 / GM1917)
-- [x] OnePlus 7 Pro (GM1915 T-Mobile) ```not supported officially but most things will work (except for LTE)```
-- [ ] OnePlus 7 Pro 5G (GM1920 / GM1925) ```not supported and will never be```
+- [x] OnePlus 7 Pro (GM1915 T-Mobile) ```официально не поддерживается, но большинство функций будут работать (кроме LTE)```
+- [ ] OnePlus 7 Pro 5G (GM1920 / GM1925) ```не поддерживается и никогда не будет```
 - [x] OnePlus 7T Pro (HD1910 / HD1911 / HD1913)
-- [ ] OnePlus 7T Pro 5G (HD1925) ```not supported and will never be```
+- [ ] OnePlus 7T Pro 5G (HD1925) ```не поддерживается и никогда не будет```
 
-#### Features
-- [X] Audio (speakers)
+#### Функции
+- [X] Audio (Динамики)
 - [x] Audio (USB)
 - [X] Battery status
 - [x] Bluetooth
-- [x] Brightness 
+- [x] Яркость 
 - [ ] Camera
-- [x] LTE/SMS ```Does not work on GM1915```
-- [ ] Charging ```Currently disabled due to random BSoD```
+- [x] LTE/SMS ```Не работает на GM1915```
+- [ ] Charging ```В настоящее время отключен из-за случайных BSoD```
 - [x] Display
-- [x] DisplayPort ```Works only with specific hubs```
-- [ ] Flashlight
+- [x] DisplayPort ```Работает только со специфическими адаптерами```
+- [ ] Фонарик
 - [x] GPU
-- [x] Microphone
-- [x] Touchscreen 
+- [x] Микрофон
+- [x] Тачскрин 
 - [x] UFS
 - [x] USB
-- [ ] Vibration
+- [ ] Вибромотор
 - [x] Wi-Fi
 
-#### Sensors
-- [ ] Accelerometer
-- [ ] Fingerprint
+#### Сенсоры
+- [ ] Акселерометр
+- [ ] Отпечаток пальца
 - [X] GPS
-- [ ] Gyroscope
-- [ ] Light sensor
-- [ ] Proximity
-- [X] NFC ```Only guacamole```
+- [ ] Гироскоп
+- [ ] Датчик освещенности
+- [ ] Датчик приблежения
+- [X] NFC ```Работает только на guacamole```
 
 
 
