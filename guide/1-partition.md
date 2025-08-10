@@ -18,12 +18,12 @@
 > 
 > Не запускайте все команды сразу, выполняйте их по порядку!
 >
-> YOU CAN BREAK YOUR DEVICE WITH THE COMMANDS BELOW IF YOU DO THEM WRONG!!!
+> ВЫ МОЖЕТЕ СЛОМАТЬ ВАШЕ УСТРОЙСТВО С ПОМОЩЬЮ КОМАНД НИЖЕ, ЕСЛИ ВЫ СДЕЛАЕТЕ ИХ НЕПРАВИЛЬНО!!!
 
-> [!Important]
-> OOS12 and ROMs that use OOS12 firmware have extremely experimental Windows support and may not work at all.
+> [!Важно]
+> OOS12 и ROM, использующие прошивку OOS12, имеют крайне экспериментальную поддержку Windows и могут вообще не работать.
 >
-> It is highly recommended to downgrade to OOS11 if you want to use Windows.
+> Если вы хотите использовать Windows, настоятельно рекомендуется перейти на OOS11.
 
 ### Opening CMD as an admin
 > Download **platform-tools** and extract the folder somewhere, then open CMD as an **administrator**.
