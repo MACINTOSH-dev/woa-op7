@@ -25,8 +25,10 @@
 >
 > Если вы хотите использовать Windows, настоятельно рекомендуется перейти на OOS11.
 
-### Opening CMD as an admin
-> Download **platform-tools** and extract the folder somewhere, then open CMD as an **administrator**.
+### Открытие CMD от имени администратора
+> Скачайте **platform-tools** и извлеките папку куда-нибудь, затем откройте CMD от имени **администратора**.
+
+
 >
 > It is recommended to keep this window open and use it throughout the entire guide.
 > 
