@@ -30,9 +30,9 @@
 
 
 >
-> It is recommended to keep this window open and use it throughout the entire guide.
+> Рекомендуется держать это окно открытым и использовать его на протяжении всего руководства.
 > 
-> Replace `path\to\platform-tools` with the actual path to the platform-tools folder, for example **C:\platform-tools**.
+> Замените `path\to\platform-tools` фактическим путем к папке platform-tools, например **C:\platform-tools**.
 ```cmd
 cd path\to\platform-tools
 ```
