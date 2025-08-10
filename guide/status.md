@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/n00b69/woa-op7/blob/main/op7.png" width="350" alt="Windows 11 running on hotdog/guacamole">
 
-# Запуск Windows on the OnePlus 7 Pro / 7T Pro
+# Запуск Windows на OnePlus 7 Pro / 7T Pro
 
 ## Статус проекта
 > Статус поддержки на этой странице предполагает, что устройство работает под управлением OOS11 или ПЗУ с прошивкой OOS11. OOS12 официально не поддерживается, и некоторые функции могут работать не так, как ожидалось.
