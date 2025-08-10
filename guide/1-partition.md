@@ -37,8 +37,8 @@
 cd path\to\platform-tools
 ```
 
-> [!Примечание]
-> If your device is not detected in fastboot or recovery mode, you'll have to install USB drivers [using this guide](troubleshooting.md#device-is-not-recognized-in-fastboot-or-recovery)
+> [⚠️Примечание]
+> Если ваше устройство не определяется в режиме быстрой загрузки или восстановления, вам придется установить USB-драйверы, [следуя этому руководству](troubleshooting.md#device-is-not-recognized-in-fastboot-or-recovery)
 
 #### Boot modified TWRP recovery
 > While your phone is in fastboot mode, replace `path\to\moddedtwrp.img` with the actual path of the image
